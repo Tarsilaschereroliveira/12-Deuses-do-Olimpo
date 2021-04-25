@@ -18,7 +18,7 @@ Deuses Mencinados
 <div id='Zeus'/> 
 
 ### Zeus 
-![image]
+![image] (https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/poseidon.jpg?raw=true)
 
 Zeus é o Senhor dos Céus e Deus Supremo da mitologia Grega. Filho mais novo de Cronos, Rei dos Titãs, e Rhea (Réia), nasceu no Monte Ida, Ilha de Creta. Conhecido pelo nome Romano 
 de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de quem era tambem marido.
