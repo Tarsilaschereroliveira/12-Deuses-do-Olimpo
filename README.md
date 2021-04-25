@@ -1,1 +1,1 @@
-#  Os 12 deuses
+#  Deuses do Olimpo
