@@ -6,21 +6,15 @@ Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e 
 *******
 Deuses Mencinados 
 
- * [Zeus](#Zeus)
-  
- * [Poseidon](#Poseidon)
-  
- * [Deméter](#Deméter)
-
- * [Hera](#Hera)
+ |* [Zeus](#Zeus)|* [Poseidon](#Poseidon)|* [Deméter](#Deméter)|* [Hera](#Hera)|
 
 *******
 <div id='Zeus'/> 
 
 ### Zeus 
 ![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/zeus.jpg?raw=true)
-
-      *Zeus é o Senhor dos Céus e Deus Supremo da mitologia Grega. Filho mais novo de Cronos, Rei dos Titãs, e Rhea (Réia), nasceu no Monte Ida, Ilha de Creta. Conhecido pelo  nome Romano de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de quem era tambem marido. *
+   
+    Zeus é o Senhor dos Céus e Deus Supremo da mitologia Grega. Filho mais novo de Cronos, Rei dos Titãs, e Rhea (Réia), nasceu no Monte Ida, Ilha de Creta. Conhecido pelo  nome Romano de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de quem era tambem marido.
 
 <div id='Poseidon'/> 
 
