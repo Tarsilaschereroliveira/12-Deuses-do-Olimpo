@@ -37,6 +37,7 @@ titãs Cronos e Reia e a principal divindade adorada nas cidades de Pilos e Teba
 <div id='Deméter'/> 
 
 ### Deméter
+![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/dem%C3%A9ter.jpg?raw=true)
 
 Deméter é considerada a deusa da agricultura na Mitologia Grega, ela era quem nutria a terra. Era também considerada como a protetora do casamento, deusa da gestação e das leis 
 sagradas. Uma das doze divindades do Olimpo, filha de Cronos e Réia.
