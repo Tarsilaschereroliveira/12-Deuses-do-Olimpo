@@ -4,6 +4,7 @@ Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e 
 
 
 > É realmente incrível até que ponto os seres humanos podem ir para adaptar as situações à sua concepção de realidade.
+
 -Rick Riordan 
 
 *******
