@@ -1,4 +1,4 @@
-## Welcome a pagina Os 12 Deuses
+## Bem-vindo a Deuses do Olimpo
 
 Nela você vai aprender sobre todos os 12 deuses do olimpo e alguns deuses menores:
 
