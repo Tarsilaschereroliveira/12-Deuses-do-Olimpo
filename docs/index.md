@@ -25,9 +25,9 @@ de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de
 
 
 <div id='Poseidon'/> 
-![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/poseidon.jpg?raw=true)
 
 ### Poseidon
+![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/poseidon.jpg?raw=true)
 
 Poseidon é o deus dos mares, dos oceanos, das tempestades, dos lagos e dos cavalos de acordo com a mitologia grega. Um entre os doze deuses gregos olímpicos, ele é o filho dos titãs Cronos e Reia e a principal divindade adorada nas cidades de Pilos e Tebas.
 
