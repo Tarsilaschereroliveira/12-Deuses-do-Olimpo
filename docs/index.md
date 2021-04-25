@@ -13,6 +13,7 @@ Deuses Mencinados
   [Deméter](#Demetér)
 
   [Hera](#Hera)
+
 *******
 
 Poseidon é o deus dos mares, dos oceanos, das tempestades, dos lagos e dos cavalos de acordo com a mitologia grega. Um entre os doze deuses gregos olímpicos, ele é o filho dos titãs Cronos e Reia e a principal divindade adorada nas cidades de Pilos e Tebas.
