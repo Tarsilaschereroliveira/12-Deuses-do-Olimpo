@@ -1,6 +1,6 @@
 ## Welcome a pagina Os 12 Deuses
 
-Nela você vai aprender sobre todos os 12 deuses do olimpo 
+Nela você vai aprender sobre todos os 12 deuses do olimpo e alguns deuses menores:
 
 
 *******
@@ -15,8 +15,7 @@ Deuses Mencinados
   [Hera](#Hera)
 
 *******
-
-Poseidon é o deus dos mares, dos oceanos, das tempestades, dos lagos e dos cavalos de acordo com a mitologia grega. Um entre os doze deuses gregos olímpicos, ele é o filho dos titãs Cronos e Reia e a principal divindade adorada nas cidades de Pilos e Tebas.
+<div id='Zeus'/> 
 
 ### Zeus 
 
