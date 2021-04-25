@@ -45,6 +45,7 @@ sagradas. Uma das doze divindades do Olimpo, filha de Cronos e Réia.
 <div id='Hera'/>
 
 ### Hera
+![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/hera.jpg?raw=true)
 
 Protetora do casamento, da vida e da fertilidade
 Na mitologia grega, a deusa Hera, filha de Cronos e Réia, é símbolo do casamento, fertilidade e da proteção feminina. Esposa e irmã de Zeus, era também conhecida como a rainha 
