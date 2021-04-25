@@ -20,8 +20,7 @@ Deuses Mencinados
 ### Zeus 
 ![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/zeus.jpg?raw=true)
 
-      *Zeus é o Senhor dos Céus e Deus Supremo da mitologia Grega. Filho mais novo de Cronos, Rei dos Titãs, e Rhea (Réia), nasceu no Monte Ida, Ilha de Creta. Conhecido pelo 
-nome Romano de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de quem era tambem marido.*
+      *Zeus é o Senhor dos Céus e Deus Supremo da mitologia Grega. Filho mais novo de Cronos, Rei dos Titãs, e Rhea (Réia), nasceu no Monte Ida, Ilha de Creta. Conhecido pelo  nome Romano de Júpiter, tinha como irmãos Poseidon, Hades, Deméter, Héstia e Hera — de quem era tambem marido. *
 
 <div id='Poseidon'/> 
 
@@ -44,6 +43,6 @@ dasleis sagradas. Uma das doze divindades do Olimpo, filha de Cronos e Réia.~~
 ### Hera
 ![image](https://github.com/Tarsilaschereroliveira/12-Deuses-do-Olimpo/blob/main/hera.jpg?raw=true)
 
-  Protetora do casamento, da vida e da fertilidade
+  *Protetora do casamento, da vida e da fertilidade
   Na mitologia grega, a deusa Hera, filha de Cronos e Réia, é símbolo do casamento, fertilidade e da proteção feminina. Esposa e irmã de Zeus, era também conhecida como a rainha 
 do Olimpo e tinha o pavão como seu animal preferido
