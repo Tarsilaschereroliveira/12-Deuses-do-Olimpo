@@ -2,6 +2,7 @@
 
 Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e alguns outros deuses menores:
 
+> É realmente incrível até que ponto os seres humanos podem ir para adaptar as situações à sua concepção de realidade.
 
 *******
 Deuses Mencinados 
@@ -43,5 +44,3 @@ do Olimpo e tinha o pavão como seu animal preferido*.
 
 
 
-
-> É realmente incrível até que ponto os seres humanos podem ir para adaptar as situações à sua concepção de realidade.
