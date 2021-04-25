@@ -6,7 +6,7 @@ Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e 
 *******
 Deuses Mencinados 
 
- |* [Zeus](#Zeus)|* [Poseidon](#Poseidon)|* [Deméter](#Deméter)|* [Hera](#Hera)|
+ | * [Zeus](#Zeus) | * [Poseidon](#Poseidon) | * [Deméter](#Deméter) | * [Hera](#Hera) |
 
 *******
 <div id='Zeus'/> 
