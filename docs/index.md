@@ -4,7 +4,8 @@ Nela você vai aprender sobre todos os 12 deuses do olimpo
 
 
 *******
-Deuses mencinados 
+Deuses Mencinados 
+
   1.[Zeus](#Zeus)
   
   2.[Poseidon](#Poseidon)
