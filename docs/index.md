@@ -40,3 +40,8 @@ dasleis sagradas. Uma das doze divindades do Olimpo, filha de Cronos e Réia.~~
   *Protetora do casamento, da vida e da fertilidade
   Na mitologia grega, a deusa Hera, filha de Cronos e Réia, é símbolo do casamento, fertilidade e da proteção feminina. Esposa e irmã de Zeus, era também conhecida como a rainha 
 do Olimpo e tinha o pavão como seu animal preferido*.
+
+
+
+
+> É realmente incrível até que ponto os seres humanos podem ir para adaptar as situações à sua concepção de realidade.
