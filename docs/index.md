@@ -1,6 +1,6 @@
 ## Bem-vindos Semi-deuses
 
-Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e alguns outros deuses menores:
+* Nessa pagina vocês vão aprender um pouco sobre todos os 12 deuses do olimpo e alguns outros deuses menores:
 
 
 > É realmente incrível até que ponto os seres humanos podem ir para adaptar as situações à sua concepção de realidade.
